@@ -1,8 +1,7 @@
 .header {
   position: relative;
   margin: 0 auto;
-  //width: $main-desktop;
-  width: 80%;
+  width: $main-desktop;
 
   @include tablet() {
     width: auto;
@@ -48,8 +47,7 @@
 }
 
 .container .main-inner {
-  //width: $main-desktop;
-  width: 80%;
+  width: $main-desktop;
 
   @include tablet() {
     width: auto;
@@ -63,9 +61,7 @@
   float: right;
   box-sizing: border-box;
   padding: $content-desktop-padding;
-  //width: $content-desktop;
-  width: calc(100% - 260px);
-
+  width: $content-desktop;
   background: white;
   min-height: 700px;
   box-shadow: $box-shadow-inner;
