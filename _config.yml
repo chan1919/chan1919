@@ -136,12 +136,12 @@ menu_icons:
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
   about: user
-  categories: th
+  #categories: th
   schedule: calendar
   tags: tags
   archives: archive
-  sitemap: sitemap
-  commonweal: heartbeat
+  #sitemap: sitemap
+  #commonweal: heartbeat
 
 
 
@@ -210,7 +210,7 @@ font:
 # ---------------------------------------------------------------
 
 
- Social Links
+#Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
