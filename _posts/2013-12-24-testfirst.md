@@ -18,4 +18,4 @@ int main () {
 
 ![Tiana](/image/diana.jpg)
 
-[baidu](www.baidu.com)
+[baidu](http://www.baidu.com/)
