@@ -1,9 +1,6 @@
 ---
 layout: page
 type: about
-title: Chan1919 -- 所溺
-email:
-  url: suoni1919@gmail.com
 ---
 
 # Wode **Ni**
