@@ -1,4 +1,5 @@
 ---
+title: 个人简历
 layout: page
 type: about
 ---
