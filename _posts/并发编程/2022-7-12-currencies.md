@@ -4,10 +4,11 @@ date: 2022-7-12
 tag: [C++, 并发编程]
 ---
 - ### thread
-C++11提供了``线程库``包含在`thread.h`头文件内，这里用多线程技术演示经典程序`hello world`如下：
+C++11提供了``线程库``包含在`thread`头文件内，这里用多线程技术演示经典程序`hello world`如下：
 ```cpp
+
 #include <iostream>
-#include <thread.h>
+#include <thread>
 
 void foo () {
     std::cout << "hello world" <<'\n';
@@ -18,6 +19,7 @@ int main () {
     t1.join();
     return 0;
 }
+
 ```
 这里需要注意:
 
