@@ -5,6 +5,7 @@ tag: [C++, 并发编程]
 ---
 - ### thread 
 C++11提供了``线程库``包含在`thread`头文件内，这里用多线程技术演示经典程序`hello world`如下：
+
 ```cpp 
 #include <iostream>
 #include <thread>
@@ -20,6 +21,7 @@ int main () {
 } 
  
 ```
+
 这里需要注意:
 
 - 当`thread`接受一个函数指针实例化出`t1`时，线程开始启动执行
