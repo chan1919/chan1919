@@ -3,10 +3,9 @@ title: C++并发编程 (1) thread、join、lambda
 date: 2022-7-12
 tag: [C++, 并发编程]
 ---
-- ### thread
+- ### thread 
 C++11提供了``线程库``包含在`thread`头文件内，这里用多线程技术演示经典程序`hello world`如下：
-```cpp
-
+```cpp 
 #include <iostream>
 #include <thread>
 
@@ -18,8 +17,8 @@ int main () {
     std::thread t1(foo);
     t1.join();
     return 0;
-}
-
+} 
+ 
 ```
 这里需要注意:
 
