@@ -438,7 +438,7 @@ gitalk:
   enable: true
   clientID: 7144a4a4d5eea2ff9e18
   clientSecret: 926e205d09ba9a97663c95331fd142491179462e
-  repo: GitTalk
+  repo: chan1919
   owner: Chan1919
   admin: Chan1919
 
