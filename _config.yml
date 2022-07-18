@@ -105,11 +105,11 @@ copyright: false
 canonical: true
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
-seo: false
+seo: true
 
 # If true, will add site-subtitle to index page, added in jekyll config.
 # subtitle: Subtitle
-index_with_subtitle: false
+index_with_subtitle: true
 
 # ---------------------------------------------------------------
 # Menu Settings
@@ -140,7 +140,7 @@ menu_icons:
   schedule: calendar
   tags: tags
   archives: archive
-  #sitemap: sitemap
+  sitemap: sitemap
   #commonweal: heartbeat
 
 
